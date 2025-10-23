@@ -1,0 +1,3 @@
+./withnode/FINAL/node_modules/*
+.gitignore
+.venv
